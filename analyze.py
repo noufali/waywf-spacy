@@ -7,14 +7,10 @@ from textblob.classifiers import NaiveBayesClassifier
 import json
 
 tweets = []
-words = []
-pos = []
-neg = []
-neutral = []
-categories = []
 
 objects = []
 actions = []
+personal = []
 lems = []
 
 # load spacy for english language
@@ -36,28 +32,25 @@ tweets.remove('Work')
 # re-organize list of tweets into flat list of words (remove punctuation and stopwords)
 for tweet in tweets:
     doc = nlp(tweet)
-    index = 0
+    item = doc[0]
     print("original:", tweet)
-
-    for token in doc:
-        print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
-
-        if index == 0 and token.dep_ == "aux" or index == 0 and token.pos_ == "VERB":
-            actions.append(tweet)
-            #tweets.remove(tweet)
-            print("ACTION: ", tweet)
-
-        if index == 0 and token.pos_ == "NOUN" and token.dep_ != "compound" and token.dep_ != "amod" or index == 0 and token.pos_ == "PROPN" and token.dep_ != "compound" and token.dep_ != "amod":
-            objects.append(tweet)
-            print("OBJECT: ", tweet)
-
-        if index == 0 and token.dep_ == "amod" or index == 0 and token.dep_ == "compound" or index == 0 and token.dep_ == "det":
-            objects.append(tweet)
-            print("OBJECT: ", tweet)
-            #tweets.remove(tweet)
-            #print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
-        # if token.is_stop != True and token.is_punct != True and token.text != '\n' and token.pos_ == "NOUN":
-        index+=1
+    print(item.text, item.lemma_, item.pos_, item.tag_, item.dep_, item.shape_, item.is_alpha, item.is_stop)
+    # if verbs
+    if item.dep_ == "aux" or item.pos_ == "VERB":
+        actions.append(tweet)
+        print("ACTION: ", tweet)
+    # if nouns or pronouns or adjective
+    if item.pos_ == "NOUN" and item.dep_ != "compound" and item.dep_ != "amod" or item.pos_ == "PROPN" and item.dep_ != "compound" and item.dep_ != "amod" or item.pos_ == "ADJ" and item.dep_ != "compound" and item.dep_ != "amod":
+        objects.append(tweet)
+        print("OBJECT: ", tweet)
+    # if compound or adjectival modifier or determiner or adverbial modifier
+    if item.dep_ == "amod" or item.dep_ == "compound" or item.dep_ == "det" or item.pos_ == "ADP" or item.dep_ == "advmod":
+        objects.append(tweet)
+        print("OBJECT: ", tweet)
+    # if possession
+    if item.lemma_ == "-PRON-":
+        personal.append(tweet)
+        print("PERSONAL: ", tweet)
     print("--")
 
 for verb in actions:
@@ -74,9 +67,9 @@ for verb in actions:
 #         print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
 #     print("--")
 
-#print(tweets)
-#print("--")
-#print(objects)
+# print(objects)
+# print("--")
+# print(personal)
 
 
 
@@ -94,6 +87,7 @@ for verb in actions:
 # nouns = [token.text for token in doc if token.is_stop != True and token.is_punct != True and token.pos_ == "NOUN"]
 # w = [token.text for token in doc if token.is_stop != True and token.is_punct != True and token.text != '\n']
 # for word in w:
+#     if token.is_stop != True and token.is_punct != True and token.text != '\n' and token.pos_ == "NOUN":
 #     lowercase = word.lower()
 #     words.append(lowercase)
 
