@@ -24,34 +24,41 @@ with open('SXSW.csv', 'r') as csvFile:
         tweets.append(row[0])
 csvFile.close()
 
-# remove first rows
+# remove uneeded rows
 tweets.remove('Wired UGC WAYWF Responses | Tracker')
 tweets.remove('Original Post')
-tweets.remove('Work')
+tweets.remove('Work Row')
+tweets.remove('Higher Purpose')
+tweets.remove('Personal Aspirations/Goals')
+tweets.remove('Family & Friends')
+tweets.remove('Financial')
+tweets.remove('Miscellaneous')
+tweets.remove('Happiness Row')
+tweets.remove('Travel Row')
 
 # re-organize list of tweets into flat list of words (remove punctuation and stopwords)
 for tweet in tweets:
     doc = nlp(tweet)
     item = doc[0]
-    print("original:", tweet)
-    print(item.text, item.lemma_, item.pos_, item.tag_, item.dep_, item.shape_, item.is_alpha, item.is_stop)
+    #print("original:", tweet)
+    #print(item.text, item.lemma_, item.pos_, item.tag_, item.dep_, item.shape_, item.is_alpha, item.is_stop)
     # if verbs
     if item.dep_ == "aux" or item.pos_ == "VERB":
         actions.append(tweet)
-        print("ACTION: ", tweet)
+        #print("ACTION: ", tweet)
     # if nouns or pronouns or adjective
     if item.pos_ == "NOUN" and item.dep_ != "compound" and item.dep_ != "amod" or item.pos_ == "PROPN" and item.dep_ != "compound" and item.dep_ != "amod" or item.pos_ == "ADJ" and item.dep_ != "compound" and item.dep_ != "amod":
         objects.append(tweet)
-        print("OBJECT: ", tweet)
+        #print("OBJECT: ", tweet)
     # if compound or adjectival modifier or determiner or adverbial modifier
     if item.dep_ == "amod" or item.dep_ == "compound" or item.dep_ == "det" or item.pos_ == "ADP" or item.dep_ == "advmod":
         objects.append(tweet)
-        print("OBJECT: ", tweet)
+        #print("OBJECT: ", tweet)
     # if possession
     if item.lemma_ == "-PRON-":
         personal.append(tweet)
-        print("PERSONAL: ", tweet)
-    print("--")
+        #print("PERSONAL: ", tweet)
+    #print("--")
 
 for verb in actions:
     thing = nlp(verb)
@@ -67,9 +74,24 @@ for verb in actions:
 #         print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)
 #     print("--")
 
+with open('data.txt', 'w') as f:
+    for item in actions:
+        f.write("%s\n" % item)
+        
+# print(actions)
+# print("--")
 # print(objects)
 # print("--")
 # print(personal)
+
+
+
+
+
+
+
+
+
 
 
 
