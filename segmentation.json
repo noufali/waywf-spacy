@@ -1,0 +1,2330 @@
+[
+  {
+    "tweet": "To build my skills as a designer and get better at my profession",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Help marginalized founders build huge companies ",
+    "sentiment": 0.4000000000000001,
+    "subjectivity": 0.4000000000000001,
+    "category": "action"
+  },
+  {
+    "tweet": "Careers people can love",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Better managers, better pay, enjoy it",
+    "sentiment": 0.4666666666666666,
+    "subjectivity": 0.4666666666666666,
+    "category": "object"
+  },
+  {
+    "tweet": "Making a better world through improving UX",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Supporting old tech makes my job much harders and it's a waste of time",
+    "sentiment": 0.08750000000000001,
+    "subjectivity": 0.08750000000000001,
+    "category": "action"
+  },
+  {
+    "tweet": "A paying job!!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Helping more people find fulfilling career",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Making a living off of music.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Better tech @ our company",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Quit my full time job to be a blogger/influencer",
+    "sentiment": 0.35,
+    "subjectivity": 0.35,
+    "category": "action"
+  },
+  {
+    "tweet": "Network",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creating a curriculum for a school district.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Advancing tech 1 company at a time",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Equality in promotion & opportunity in tech!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creative innovation @ a legacy company in a est. [indata]",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Making work for all workers",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To not have to work some day",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To express my inner creative through fashion",
+    "sentiment": 0.25,
+    "subjectivity": 0.25,
+    "category": "action"
+  },
+  {
+    "tweet": "To help build a data drive world of work",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Building a business that helps and enables me to live",
+    "sentiment": 0.13636363636363635,
+    "subjectivity": 0.13636363636363635,
+    "category": "action"
+  },
+  {
+    "tweet": "A system that rewards creators",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To succeed at freelancing and gaining a solid client base.",
+    "sentiment": -0.4,
+    "subjectivity": -0.4,
+    "category": "action"
+  },
+  {
+    "tweet": "To make films that have an impact on society",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "I'm working to have a life of stability in a career which I love with a growing family and friends.",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "personal"
+  },
+  {
+    "tweet": "A certification and to teach the future (kids) how to understand others and deal with emotion through art",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creating new content, teaching about opportunities in the film industry",
+    "sentiment": 0.13636363636363635,
+    "subjectivity": 0.13636363636363635,
+    "category": "action"
+  },
+  {
+    "tweet": "I am working for the development of my team leadership.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Being the most badass I can be my industry",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "I want to discover and develop the worlds coolest artist",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "To make it OK to disagree at work!",
+    "sentiment": 0.625,
+    "subjectivity": 0.625,
+    "category": "action"
+  },
+  {
+    "tweet": "My coworkers",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Career clarity",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Passion career",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "A career I'm passionate about",
+    "sentiment": -0.05,
+    "subjectivity": -0.05,
+    "category": "object"
+  },
+  {
+    "tweet": "I'm working for making the balance on hard work and play hard not to be a burden. ",
+    "sentiment": -0.2916666666666667,
+    "subjectivity": -0.2916666666666667,
+    "category": "personal"
+  },
+  {
+    "tweet": "Empower next-gen female talent to have a louder voice!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Social rehab & diversity in the workplace.",
+    "sentiment": 0.03333333333333333,
+    "subjectivity": 0.03333333333333333,
+    "category": "object"
+  },
+  {
+    "tweet": "Ceiling on Rise 2 2 Me. Outdated tech.",
+    "sentiment": -0.4000000000000001,
+    "subjectivity": -0.4000000000000001,
+    "category": "action"
+  },
+  {
+    "tweet": "Freedom from the rat race",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Career Growth",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Freedom to work anywhere",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Working to find a career path/idea I am passionate about ",
+    "sentiment": -0.05,
+    "subjectivity": -0.05,
+    "category": "action"
+  },
+  {
+    "tweet": "Innovation. Out with old, in with new",
+    "sentiment": 0.11818181818181818,
+    "subjectivity": 0.11818181818181818,
+    "category": "object"
+  },
+  {
+    "tweet": "Bringing back the vibrancy of Cleveland, Ohio and make it economically bountiful for everyone",
+    "sentiment": 0.15,
+    "subjectivity": 0.15,
+    "category": "action"
+  },
+  {
+    "tweet": "I'm working to increase access to capital for black founders. I'm the example. ",
+    "sentiment": -0.16666666666666666,
+    "subjectivity": -0.16666666666666666,
+    "category": "personal"
+  },
+  {
+    "tweet": "Black Canna Tech Matters",
+    "sentiment": -0.16666666666666666,
+    "subjectivity": -0.16666666666666666,
+    "category": "object"
+  },
+  {
+    "tweet": "Work smarter, not harder!",
+    "sentiment": 0.0625,
+    "subjectivity": 0.0625,
+    "category": "action"
+  },
+  {
+    "tweet": "I love problem solivng & the challenges of my industry",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "personal"
+  },
+  {
+    "tweet": "Women being comfortable talking about money.",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "object"
+  },
+  {
+    "tweet": "Equality for the sexes!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Moving up the ladder to the top.",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Promoting diverse voices in tech and tech journalizm",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "- Career Advacement\n- Strong online following",
+    "sentiment": 0.21666666666666665,
+    "subjectivity": 0.21666666666666665,
+    "category": "NA"
+  },
+  {
+    "tweet": "To make my team and product better",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Wage equality",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Power my community. Electrical powerline construction.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Creating an environment where all people can thrive.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To create a better world of work!",
+    "sentiment": 0.625,
+    "subjectivity": 0.625,
+    "category": "action"
+  },
+  {
+    "tweet": "Better Job",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Breaking Glass Ceiling",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "A fulfilled life that's work & play combined",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To make fair amount of work",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "action"
+  },
+  {
+    "tweet": "Breaking glass ceiling",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To change the face of the tech industry by breaking barriers for diverse tech founders",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "For more functional products and effective services",
+    "sentiment": 0.55,
+    "subjectivity": 0.55,
+    "category": "object"
+  },
+  {
+    "tweet": "Impact, leading my team",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creating a culture of collaboration & team work",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Getting my brand to be valued as one of the premier photography companies in the world",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "A seat @ the table to problem solve in business & product development",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "The ability to travel for work. To get paid to play music, write, & research all around the world",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Create a global network of good slaps and people / and family",
+    "sentiment": 0.35,
+    "subjectivity": 0.35,
+    "category": "action"
+  },
+  {
+    "tweet": "Equal pay!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "More female CEOs",
+    "sentiment": 0.25,
+    "subjectivity": 0.25,
+    "category": "object"
+  },
+  {
+    "tweet": "To create more businesses owned by women of color",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Better, equal pay for men & women at all levels and all roles",
+    "sentiment": 0.25,
+    "subjectivity": 0.25,
+    "category": "object"
+  },
+  {
+    "tweet": "Work life balance as a women in Austin",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To make work better thru tech",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Improving the life of my clients and their parents (I'm a dog trainer) and finding meaning what I love",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Improving the built environment",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "My own company/product",
+    "sentiment": 0.6,
+    "subjectivity": 0.6,
+    "category": "personal"
+  },
+  {
+    "tweet": "Helping people",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Smashing the patriarchy for teen girls",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To build a better world",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Less partisanship in urban-rural divide",
+    "sentiment": -0.16666666666666666,
+    "subjectivity": -0.16666666666666666,
+    "category": "object"
+  },
+  {
+    "tweet": "Empowering creative people and girls <3",
+    "sentiment": 0.75,
+    "subjectivity": 0.75,
+    "category": "action"
+  },
+  {
+    "tweet": "Toxic masculinity destroying",
+    "sentiment": -0.2,
+    "subjectivity": -0.2,
+    "category": "object"
+  },
+  {
+    "tweet": "Social justice well being",
+    "sentiment": 0.03333333333333333,
+    "subjectivity": 0.03333333333333333,
+    "category": "object"
+  },
+  {
+    "tweet": "Working to break barriers, walls and ceilings",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Gender parity, equal pay, equal rights",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Justice for all",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To help those with medical need and are underprivileged.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "A sense of purpose and achievement",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Freedom in Educating practices. Creativity in Education.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Making high quality education equally accesible to the black community",
+    "sentiment": -0.002222222222222218,
+    "subjectivity": -0.002222222222222218,
+    "category": "action"
+  },
+  {
+    "tweet": "World empathy",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Health in healthcare",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Incusion\nCurosity",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "I am working to empower, inspire and encourage women that they can do anything that they set their mind to!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Free knowledge and increased opportunities for all willing to learn.",
+    "sentiment": 0.325,
+    "subjectivity": 0.325,
+    "category": "object"
+  },
+  {
+    "tweet": "Improving quality of life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Designing a better life for people",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "To alavate people",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Quality healthcare for everyone!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Making an inspirational impact for women.",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "To make a difference in someone's life. To be independent. ",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To make a difference in the world",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Advancement",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Fulfillment\nChallenge\nMaking a difference",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Animal Rights",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Equality",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Urban Poor Needy #austintrongsafe",
+    "sentiment": -0.2,
+    "subjectivity": -0.2,
+    "category": "object"
+  },
+  {
+    "tweet": "Global connection, community, balance",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Equal rights",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "#Inclusivity for all :) ",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "NA"
+  },
+  {
+    "tweet": "Equality and Justice",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Minority girls to see the future that could be!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Media representation and global betterment <3",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Gender equality",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To help more and more people",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Meaningful tech",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Give others more access",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Community",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Purpose, making the world a better palce",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Knowledge & to help people",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Educating the next gen",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Empowering the next generation",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Balancing where I invest my time and maintaining posterity",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Women in science! ",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Black liberation <3 ",
+    "sentiment": 0.4166666666666667,
+    "subjectivity": 0.4166666666666667,
+    "category": "object"
+  },
+  {
+    "tweet": "I'm working to bring young brown men/culture to the American spotlight.",
+    "sentiment": 0.05,
+    "subjectivity": 0.05,
+    "category": "personal"
+  },
+  {
+    "tweet": "Change the world of one person for change all the world!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Helping others stay healthy #PhysicalTherapy",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "- Updated tech\n- Healthcare for all!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "NA"
+  },
+  {
+    "tweet": "Spreading news that matters",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Gender equality on every level",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Social Impact",
+    "sentiment": 0.03333333333333333,
+    "subjectivity": 0.03333333333333333,
+    "category": "object"
+  },
+  {
+    "tweet": "Making a difference\nDriving change\nAmazing family",
+    "sentiment": 0.6000000000000001,
+    "subjectivity": 0.6000000000000001,
+    "category": "action"
+  },
+  {
+    "tweet": "To continue making a massive impact on the lives of young adults",
+    "sentiment": 0.05,
+    "subjectivity": 0.05,
+    "category": "action"
+  },
+  {
+    "tweet": "Equality",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Mental health & wellness",
+    "sentiment": -0.1,
+    "subjectivity": -0.1,
+    "category": "object"
+  },
+  {
+    "tweet": "Equality, arts, representation",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Impact",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Pushing Boundaries",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Removing stigmas and role definitions",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To be a positive example for the next generation of women",
+    "sentiment": 0.11363636363636363,
+    "subjectivity": 0.11363636363636363,
+    "category": "action"
+  },
+  {
+    "tweet": "Equal opportunity for all humans, everywhere.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "A better world for all",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Contribute to society\nLearn/Develop\nLive comfortably/vacation",
+    "sentiment": 0.13636363636363635,
+    "subjectivity": 0.13636363636363635,
+    "category": "action"
+  },
+  {
+    "tweet": "Mankind",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "The people I care about",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Give back to the city I live in & personal fulfillment",
+    "sentiment": 0.04545454545454545,
+    "subjectivity": 0.04545454545454545,
+    "category": "action"
+  },
+  {
+    "tweet": "To make a difference",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "For others to see their own beauty",
+    "sentiment": 0.6,
+    "subjectivity": 0.6,
+    "category": "object"
+  },
+  {
+    "tweet": "Lifting up diverse voices",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Access of education for everyone",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Ethical AI\nFreedom for Journalists\nEliminating Islamophobia",
+    "sentiment": 0.2,
+    "subjectivity": 0.2,
+    "category": "object"
+  },
+  {
+    "tweet": "Equality and Equity",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To help heal & make people feel refreshed",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "A better world where people and places are connected are not left behind",
+    "sentiment": 0.033333333333333326,
+    "subjectivity": 0.033333333333333326,
+    "category": "object"
+  },
+  {
+    "tweet": "To make a difference",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Enabling greatness in people",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "I <3 helping poeple & knowledge",
+    "sentiment": 1,
+    "subjectivity": 1,
+    "category": "personal"
+  },
+  {
+    "tweet": "Leaving a legacy & lasting positive impact",
+    "sentiment": 0.11363636363636363,
+    "subjectivity": 0.11363636363636363,
+    "category": "action"
+  },
+  {
+    "tweet": "Better digital availability across our borders",
+    "sentiment": 0.25,
+    "subjectivity": 0.25,
+    "category": "object"
+  },
+  {
+    "tweet": "Togetherness through creativity",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To sustain, provide, create opportunities for my tribe (Paskeuta Band of Nomlaki Indians)",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "College",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To sustain, provide, create opportunities for my tribe (Paskeuta Band of Nomlaki Indians)",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Me",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Self enablement",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creative excellence",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Becoming established",
+    "sentiment": 0.45,
+    "subjectivity": 0.45,
+    "category": "action"
+  },
+  {
+    "tweet": "Artistic growth & fulfillment",
+    "sentiment": 0.3333333333333333,
+    "subjectivity": 0.3333333333333333,
+    "category": "object"
+  },
+  {
+    "tweet": "A blissful life, 24/7 :) ",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "More confident self",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Serenity of the Soul",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "I am working to achieve the best grades I can by producing only my best assignments and work. ",
+    "sentiment": 0.6666666666666666,
+    "subjectivity": 0.6666666666666666,
+    "category": "personal"
+  },
+  {
+    "tweet": "Internal freedom",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Challenge myself mentally and help others solve problems",
+    "sentiment": -0.1,
+    "subjectivity": -0.1,
+    "category": "object"
+  },
+  {
+    "tweet": "Knowing that I can do what I want",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Personal glory",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Freedom from monotony",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Pride\nSense of achievement",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Artistic expression",
+    "sentiment": 0.3333333333333333,
+    "subjectivity": 0.3333333333333333,
+    "category": "object"
+  },
+  {
+    "tweet": "To spread my love & energy",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Honestly, to live the life I want. Equality :) ",
+    "sentiment": 0.3181818181818182,
+    "subjectivity": 0.3181818181818182,
+    "category": "object"
+  },
+  {
+    "tweet": "Independence",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creative expression personal expression with EVERYONE",
+    "sentiment": 0.25,
+    "subjectivity": 0.25,
+    "category": "object"
+  },
+  {
+    "tweet": "Independence",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Healthy minds",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "For my joy",
+    "sentiment": 0.8,
+    "subjectivity": 0.8,
+    "category": "object"
+  },
+  {
+    "tweet": "Balance",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "People, Planet, Profit",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Myself",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "I'm working to show everyone that i have what it takes to be powerful, strong & confident",
+    "sentiment": 0.41111111111111115,
+    "subjectivity": 0.41111111111111115,
+    "category": "personal"
+  },
+  {
+    "tweet": "Being a leader",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "A life free from monotany",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "object"
+  },
+  {
+    "tweet": "I want to do what I love",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "personal"
+  },
+  {
+    "tweet": "Exploring myself\nMeeting people\nFulfilling reenage weows/aspirations",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Human connections <3",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Finishing graduate school, trying to gain knowledge",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "RESPECT",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "My future!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Myself\nHope\nGet my wings",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "To play music",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Success",
+    "sentiment": 0.3,
+    "subjectivity": 0.3,
+    "category": "object"
+  },
+  {
+    "tweet": "To tell the story of my mexican culture through film ",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Be inspired every day",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "A better place for me and my family. aka the world.",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Working to make my mom proud",
+    "sentiment": 0.8,
+    "subjectivity": 0.8,
+    "category": "action"
+  },
+  {
+    "tweet": "My family",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "My husband and family happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "personal"
+  },
+  {
+    "tweet": "My family",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Family, relationships of genuine connection and a connection by my art",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "object"
+  },
+  {
+    "tweet": "For family",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Living the life my immigrant parents worked for",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To establish a new legacy for my family",
+    "sentiment": 0.13636363636363635,
+    "subjectivity": 0.13636363636363635,
+    "category": "action"
+  },
+  {
+    "tweet": "A joyful life for my family",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "My new family\nHusband x Future kids",
+    "sentiment": 0.06818181818181818,
+    "subjectivity": 0.06818181818181818,
+    "category": "personal"
+  },
+  {
+    "tweet": "Ability to provide for a family with money and time",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "A better place for my daugters, sisters, nieces and myself",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Children",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To help my family and build my own. To keep exploring new place & try new experiences. ",
+    "sentiment": 0.2909090909090909,
+    "subjectivity": 0.2909090909090909,
+    "category": "action"
+  },
+  {
+    "tweet": "To inspire my daughters",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Familia",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "The memory of my mom and to create opportunities for my family",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Affording babies",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Family",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To show my family what strength and ambition looks like",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Balancing being a single mom, working & gramming",
+    "sentiment": -0.07142857142857142,
+    "subjectivity": -0.07142857142857142,
+    "category": "action"
+  },
+  {
+    "tweet": "My baby I just found out I'm going to have in 8 months! :) (Don't tell!)",
+    "sentiment": 0.625,
+    "subjectivity": 0.625,
+    "category": "personal"
+  },
+  {
+    "tweet": "To be around humans. My children drive me cray sometimes. ",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Family and best quality of life",
+    "sentiment": 1,
+    "subjectivity": 1,
+    "category": "object"
+  },
+  {
+    "tweet": "I'm working to show my younger siblings how hard work pays off! ",
+    "sentiment": -0.18229166666666669,
+    "subjectivity": -0.18229166666666669,
+    "category": "personal"
+  },
+  {
+    "tweet": "A stable future for my wife and I",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "I'm working to show my daughter that women can achieve anything",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "I'm working to take care of those who took care of me.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "My daughter and family – a better life",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "personal"
+  },
+  {
+    "tweet": "Family is everything",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Family\nhappiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Freedom to make a (+) impact on society. Also, working for my [sic] parents for all that they do!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Love\nLaugh\nMy mom/pa",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "object"
+  },
+  {
+    "tweet": "The kids. <3",
+    "sentiment": 1,
+    "subjectivity": 1,
+    "category": "object"
+  },
+  {
+    "tweet": "Family & fiance",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "My future grandkids",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "A wage that matches my skill set, education, and experience.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Want to be able to enjoy being young without worrying about money",
+    "sentiment": 0.3333333333333333,
+    "subjectivity": 0.3333333333333333,
+    "category": "action"
+  },
+  {
+    "tweet": "I'm working to be more established financially to provide for my loved ones",
+    "sentiment": 0.39999999999999997,
+    "subjectivity": 0.39999999999999997,
+    "category": "personal"
+  },
+  {
+    "tweet": "A house",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Mortgage",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "$$",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "NA"
+  },
+  {
+    "tweet": "My dream house",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "To pay my bills!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Financial independence\nFreedom\nT!M3",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Retirement",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Early Retirement",
+    "sentiment": 0.1,
+    "subjectivity": 0.1,
+    "category": "object"
+  },
+  {
+    "tweet": "To retire in Hawaii",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Closing the wealth gap",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Generational wealth",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To put bread on the table",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To own a house and property",
+    "sentiment": 0.6,
+    "subjectivity": 0.6,
+    "category": "action"
+  },
+  {
+    "tweet": "Retirement\nTo have a good life\nTo feel useful",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Retirement\nHealth\nEnough Money",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Success, happiness and a paycheck to keep me afloat",
+    "sentiment": 0.3333333333333333,
+    "subjectivity": 0.3333333333333333,
+    "category": "object"
+  },
+  {
+    "tweet": "Buying a home",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Financial Freedom",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Generational Wealth",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "- Economic mobility\n- Child protection\n- Government outcomes",
+    "sentiment": 0.2,
+    "subjectivity": 0.2,
+    "category": "NA"
+  },
+  {
+    "tweet": "Mo Money, Less Problems",
+    "sentiment": -0.16666666666666666,
+    "subjectivity": -0.16666666666666666,
+    "category": "object"
+  },
+  {
+    "tweet": "To be rich and fabulous and help some folks!",
+    "sentiment": 0.4375,
+    "subjectivity": 0.4375,
+    "category": "action"
+  },
+  {
+    "tweet": "Financial freedom and to buy shit I want",
+    "sentiment": -0.1,
+    "subjectivity": -0.1,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial freedom from student debt",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial freedom\nTraveling",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "MONEY",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Money",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Money",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "For money",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial independence\nFinancial discipline",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial Inclusion",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial sustainability and happiness",
+    "sentiment": 0.35,
+    "subjectivity": 0.35,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial independence",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial freedom",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Money!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Getting paid to do what I love",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "More money, less hours",
+    "sentiment": 0.16666666666666669,
+    "subjectivity": 0.16666666666666669,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial freedom",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Rock star status!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Data-driven advertising",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Queer Leadership",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Ownership",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Success of Recognition!",
+    "sentiment": 0.375,
+    "subjectivity": 0.375,
+    "category": "object"
+  },
+  {
+    "tweet": "Better legislation",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "To grow the game of basketball and impact young people",
+    "sentiment": -0.15000000000000002,
+    "subjectivity": -0.15000000000000002,
+    "category": "action"
+  },
+  {
+    "tweet": "#publicity\n#travel\n#socialnetworking",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Creativity, written inspriation and change",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Global Social Music Love!",
+    "sentiment": 0.21944444444444444,
+    "subjectivity": 0.21944444444444444,
+    "category": "object"
+  },
+  {
+    "tweet": "Love Rock",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "More equality\nLess stress\nMore empathy",
+    "sentiment": 0.2777777777777778,
+    "subjectivity": 0.2777777777777778,
+    "category": "object"
+  },
+  {
+    "tweet": "Samarie Lamboy\nSuccess",
+    "sentiment": 0.3,
+    "subjectivity": 0.3,
+    "category": "object"
+  },
+  {
+    "tweet": "Hapiness, success, & good friends & family",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Life\nLiberty\nThe pursuit of happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To improve logistics",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "To learn more about life itself and to create more opportunities",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "The weekend (isn't everybody)",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Life <3",
+    "sentiment": 1,
+    "subjectivity": 1,
+    "category": "object"
+  },
+  {
+    "tweet": "Life experiences",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To tell important stories",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "action"
+  },
+  {
+    "tweet": "Life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Community",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Balance\nSay what I want and get what I want",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "For life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Survival",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To be creative!",
+    "sentiment": 0.625,
+    "subjectivity": 0.625,
+    "category": "action"
+  },
+  {
+    "tweet": "Lyft scooter",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Future",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Success & work & home",
+    "sentiment": 0.3,
+    "subjectivity": 0.3,
+    "category": "object"
+  },
+  {
+    "tweet": "An end to Sunday scaries",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Love",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Financial, familial, and artistic balance",
+    "sentiment": 0.16666666666666666,
+    "subjectivity": 0.16666666666666666,
+    "category": "object"
+  },
+  {
+    "tweet": "Fun",
+    "sentiment": 0.3,
+    "subjectivity": 0.3,
+    "category": "object"
+  },
+  {
+    "tweet": "I love technology.",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "personal"
+  },
+  {
+    "tweet": "Getting stuff to people",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Freedom",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Better problems",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Improve quality of life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Improve life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Musician ",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Love",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "To survive",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "True freedom",
+    "sentiment": 0.35,
+    "subjectivity": 0.35,
+    "category": "object"
+  },
+  {
+    "tweet": "Living worry free",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "action"
+  },
+  {
+    "tweet": "Solving unresolved rape cases",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Longevity and peace",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Better life",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Success, respect, & knowledge <3",
+    "sentiment": 0.65,
+    "subjectivity": 0.65,
+    "category": "object"
+  },
+  {
+    "tweet": "New perspectives",
+    "sentiment": 0.13636363636363635,
+    "subjectivity": 0.13636363636363635,
+    "category": "object"
+  },
+  {
+    "tweet": "Life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Conceptual creativity",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Healthier lifestyle and perspective",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To be respected",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Better communication, transparency, trust, respect, and intelligent decisions!",
+    "sentiment": 0.75,
+    "subjectivity": 0.75,
+    "category": "object"
+  },
+  {
+    "tweet": "Usability & understanding",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Boss life",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Break and recreate shit",
+    "sentiment": -0.2,
+    "subjectivity": -0.2,
+    "category": "action"
+  },
+  {
+    "tweet": "Sustainability",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Awake Creative Lives",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "Emotions guiding on decisions",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "The quan",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Buying all the toys",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "I'm #WorkingFor the GD weekend and the female renaissance",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "You!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "The weekend ",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "KVUE",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "I'm working for all the candy in the world",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "To get enough money to travel...but I have zero long vacation possibilities :( ",
+    "sentiment": -0.26666666666666666,
+    "subjectivity": -0.26666666666666666,
+    "category": "action"
+  },
+  {
+    "tweet": "Travel",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Experiences - from travel to art and beyond <3",
+    "sentiment": 1,
+    "subjectivity": 1,
+    "category": "object"
+  },
+  {
+    "tweet": "To create a better future for muyself; to better myself & learn more; travel more & discover new cultures, languages, and landscapes.",
+    "sentiment": 0.356060606060606,
+    "subjectivity": 0.356060606060606,
+    "category": "action"
+  },
+  {
+    "tweet": "To travel for free",
+    "sentiment": 0.4,
+    "subjectivity": 0.4,
+    "category": "action"
+  },
+  {
+    "tweet": "Vacations\nWorld Travel\nWorld Citizen",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Vacation time",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Traveling more! :) ",
+    "sentiment": 0.5625,
+    "subjectivity": 0.5625,
+    "category": "action"
+  },
+  {
+    "tweet": "More vacation time!",
+    "sentiment": 0.625,
+    "subjectivity": 0.625,
+    "category": "object"
+  },
+  {
+    "tweet": "The means to travel",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Travel",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "My future!!! Vacations!!!",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "personal"
+  },
+  {
+    "tweet": "Travel",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Travel more :)",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "More vacation time and art",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "object"
+  },
+  {
+    "tweet": "To travel more and experience life",
+    "sentiment": 0.5,
+    "subjectivity": 0.5,
+    "category": "action"
+  },
+  {
+    "tweet": "Travel! And life experiences.",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "To travel, expereince, and then retire",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "action"
+  },
+  {
+    "tweet": "Vacation/travel",
+    "sentiment": 0,
+    "subjectivity": 0,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness.",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Freedom. Happiness.",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Good times & great memories <3",
+    "sentiment": 0.8333333333333334,
+    "subjectivity": 0.8333333333333334,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Fun",
+    "sentiment": 0.3,
+    "subjectivity": 0.3,
+    "category": "object"
+  },
+  {
+    "tweet": "Fun!",
+    "sentiment": 0.375,
+    "subjectivity": 0.375,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Fulfillment\nSafety\nHappiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  },
+  {
+    "tweet": "Happiness",
+    "sentiment": 0.7,
+    "subjectivity": 0.7,
+    "category": "object"
+  }
+]
